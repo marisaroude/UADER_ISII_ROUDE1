@@ -38,7 +38,11 @@ python primos.py
 Hice git add . , commit y cuando quise realizar el push me dio un error de autenticación.
 Por lo tanto tuve que autenticarme, cree una clave SSH y la asocie a github. 
 Luego al intentar hacer el push me dio el siguiente error:
-![Image text](C:\Users\Roxana Ramirez\OneDrive\Imágenes/ERROR PUSH GITHUB.PNG)
+
+
+
+
+
 
 
 
