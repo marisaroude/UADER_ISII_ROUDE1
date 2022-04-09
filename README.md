@@ -18,11 +18,11 @@ Seguí los siguientes comandos:
 **Punto 2:**
 
 Cree las carpetas desde la consola:
-1.Mkdir Python
-2.Mkdir bin
-3.Mkdir bash
-4.Mkdir images
-5.Mkdir docs
+1. Mkdir Python
+2. Mkdir bin
+3. Mkdir bash
+4. Mkdir images
+5. Mkdir docs
 
 **Punto 3:**
 
@@ -61,9 +61,9 @@ Para leer las constantes desde la consola me guié del siguiente link:
 https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion7/entrada_salida.html
 
 Luego que dejé el archivo primos.py listo ejecute:
-1.Git add . 
-2.git commit 
-3.git push
+- git add . 
+- git commit 
+- git push
 
 **Punto 8 y 9:**
 Instalé el módulo Textblob que se utiliza para traducir los print.
