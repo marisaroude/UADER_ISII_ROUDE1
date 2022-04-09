@@ -1,6 +1,6 @@
 # prime number calculator: find all primes up to n
 import sys
-
+import time
 from textblob import TextBlob
 
 if len(sys.argv) == 3:
@@ -13,7 +13,7 @@ else:
 #for loop for checking each number
 primeList = []
 eb=TextBlob("Find primes up to what number?: ")
-print(eb.translate(to="it"),int(max))
+print(eb.translate(to="it"),int(max))#Traductor
 
 for x in range(2, max + 1):
 	isPrime = True
@@ -31,7 +31,7 @@ print(primeList)
 # prime number calculator: find the first n primes
 primeList = []
 eb=TextBlob("Find how many primes ?: ")
-print(eb.translate(to="it"),int(count))
+print(eb.translate(to="it"),int(count)) #Traductor 
 x = 2
 while len(primeList) < count:
 	isPrime = True
@@ -46,3 +46,6 @@ while len(primeList) < count:
 		primeList.append(x)
 	x += 1
 print(primeList)
+
+actual=time.strftime("%c")
+print("Fecha y hora actual: "+actual)
