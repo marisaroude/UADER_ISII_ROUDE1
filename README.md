@@ -51,7 +51,7 @@ Borre el archivo primos.py y lo comprobé por consola con el comando git status 
 
 Para recuperar el archivo primos.py utilicé el comando git checkout primos.py
 
-**Punto 7:**
+###**Punto 7:**
 
 Ejecuto primos.py desde la consola de la siguiente manera:
 
